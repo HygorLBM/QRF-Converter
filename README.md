@@ -14,5 +14,5 @@ This project was uploaded to GitHub after his conclusion. Be aware of including 
 
 
 To decode from screen the software takes a print screen and searches QR codes int the region where you clicked.
-Contact me at <hygorlbm@gmail.com> to any questions about this software.
+Contact me at <hygorlbm@gmail.com> to solve any questions about this software.
 
