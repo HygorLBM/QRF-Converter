@@ -11,3 +11,8 @@ https://opencv.org
 This project was uploaded to GitHub after his conclusion. Be aware of including all libraries and delet Debug for it to work.
 
 ![Alt text](https://i.imgur.com/g6T9l1X.png "A sample screenshot")
+
+
+To decode from screen the software takes a print screen and searches QR codes int the region where you clicked.
+Contact me at <hygorlbm@gmail.com> to any questions about this software.
+
